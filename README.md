@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo]()
+
 
 ## 🚀 How to Use
 
@@ -8,10 +8,10 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+    $ git clone https://github.com/adelukman45/gift.git
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd gift
 
     # Open it with your text editor
     $ code .
@@ -34,6 +34,6 @@ If you have any ideas to make it more interesting, please submit a pull request 
 ### [MIT](LICENSE)
 
 > Github [@adelukman45](https://github.com/adelukman45) &nbsp;&middot;&nbsp;
-> Youtube [@alcreative___]([https://www.youtube.com/@fajarghifar/](https://www.youtube.com/channel/UC-8ECFFowyQ7O60D3AMignQ)) &nbsp;&middot;&nbsp;
+> Youtube [@alcreative___]((https://www.youtube.com/channel/UC-8ECFFowyQ7O60D3AMignQ)) &nbsp;&middot;&nbsp;
 > Instagram [@adelukman45](https://instagram.com/adelukman45) &nbsp;&middot;&nbsp;
 > Linkedin [@adelukman](https://www.linkedin.com/in/adelukman/)
